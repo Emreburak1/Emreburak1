@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Emre Burak Baş.
 
-A passionate sophomore industrial engineering student at Boğaziçi University.
+A passionate sophomore [industrial engineering](https://ie.boun.edu.tr) student at [Boğaziçi University](https://boun.edu.tr).
 
 I’m currently learning **about data analysis libraries in both R (dplyr, ggplot2) and Python (numpy, scipy, pandas, matplotlib), and their applications in statistics concepts.**
 
