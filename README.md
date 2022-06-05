@@ -26,6 +26,9 @@ connect_with_me = {
   </a> 
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
+    <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Ihuj?ver=35ad&q=90&m=6&h=48&w=48&b=%23FFFFFFFF&l=f&o=t&aim=true" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
