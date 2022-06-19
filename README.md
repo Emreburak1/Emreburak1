@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Emre Burak Baş.
 
-A passionate junior [industrial engineering](https://ie.boun.edu.tr) student at [Boğaziçi University](https://boun.edu.tr).
+A passionate senior [industrial engineering](https://ie.boun.edu.tr) student at [Boğaziçi University](https://boun.edu.tr).
 
 I’m currently learning about **machine learning - data mining & time series libraries in both R (caret, tidymodels & tidyverts) and Python (scikit-learn & statsmodels).**
 
