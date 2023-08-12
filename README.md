@@ -59,7 +59,7 @@ connect_with_me = {
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="r" width="" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/jpg/ICON%20-%20Black%20on%20White.jpg" alt="r" width="" height="40"/>
+    <img src="https://spark.apache.org/images/kafka.png" alt="r" width="" height="40"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank">
     <img src="https://www.apache.org/logos/res/airflow/airflow-3.png" alt="r" width="" height="40"/>
