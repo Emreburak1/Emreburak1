@@ -55,16 +55,16 @@ connect_with_me = {
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://spark.apache.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="r" width="" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/jpg/ICON%20-%20Black%20on%20White.jpg" alt="r" width="" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://airflow.apache.org/" target="_blank">
     <img src="https://www.apache.org/logos/res/airflow/airflow-3.png" alt="r" width="" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://delta.io/" target="_blank">
     <img src="https://delta.io/static/3bd8fea55ff57287371f4714232cd4ef/f3063/delta-lake-logo.png" alt="r" width="" height="40"/>
   </a>
     <a href="https://git-scm.com/" target="_blank">
